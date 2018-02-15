@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\providers",
+    "\\src\\providers\\weather"
+  ],
+  "SelectedNode": "\\src\\providers\\weather\\weather.ts",
+  "PreviewInSolutionExplorer": false
+}
